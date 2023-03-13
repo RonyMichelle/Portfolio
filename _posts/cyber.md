@@ -1,11 +1,11 @@
 ---
-date: '2023-03-12T11:50:54.000Z'
-title: Programming
+date: '2022-07-08T11:50:54.000Z'
+title: Cyber
 tagline: This is a Tagline If you want to add.
 preview: >-
-  He estudiado ingerniería informática en la Universidad Carlos III de Madrid. Ahora estoy trabajando como Junior Software Engineer en PagoNxt. Resumo los conocimientos adquiridos durante estos años.
+  Durante la carrera he dudado varias veces sobre cuál sería la rama en la que me especializaría. Ahora, estoy cursando un master en ciberseguridad y por fín puedo decir que he encontrado mi camino. 
 image: >-
-  https://images.unsplash.com/photo-1523800503107-5bc3ba2a6f81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80
+  https://images.unsplash.com/photo-1567924675637-283a6742993e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1033&q=80
 ---
 
 # Heading One
@@ -16,16 +16,47 @@ image: >-
 
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
-### This is Heading Three
+### This is Heading Three with `inline code`
 
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
 #### This is Heading Four With Code Block
 
-```jsx
-<code className={className} {...props}>
-  {children}
-</code>
+```
+
+# Auto-generated based on the server's hostname.
+# Set this to the URL used to access the Firezone Web UI.
+default['firezone']['external_url'] = 'https://firezone.example.com'
+
+# Specify the path to your SSL cert and private key.
+# If set to nil (default), a self-signed cert will be generated for you.
+default['firezone']['ssl']['certificate'] = '/path/to/cert.pem'
+default['firezone']['ssl']['certificate_key'] = '/path/to/key.pem'
+
+```
+
+##### Heading Five Code With Max Height
+
+```
+
+# Auto-generated based on the server's hostname.
+# Set this to the URL used to access the Firezone Web UI.
+default['firezone']['external_url'] = 'https://firezone.example.com'
+
+# Specify the path to your SSL cert and private key.
+# If set to nil (default), a self-signed cert will be generated for you.
+default['firezone']['ssl']['certificate'] = '/path/to/cert.pem'
+default['firezone']['ssl']['certificate_key'] = '/path/to/key.pem'
+
+# Auto-generated based on the server's hostname.
+# Set this to the URL used to access the Firezone Web UI.
+default['firezone']['external_url'] = 'https://firezone.example.com'
+
+# Specify the path to your SSL cert and private key.
+# If set to nil (default), a self-signed cert will be generated for you.
+default['firezone']['ssl']['certificate'] = '/path/to/cert.pem'
+default['firezone']['ssl']['certificate_key'] = '/path/to/key.pem'
+
 ```
 
 ## BLockquote

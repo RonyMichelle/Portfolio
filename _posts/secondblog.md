@@ -1,14 +1,13 @@
 ---
 date: '2022-07-08T11:50:54.000Z'
-title: Second Blog
+title: Modeling
 tagline: This is a Tagline If you want to add.
 preview: >-
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-  when an unknown printer took a galley of type and scrambled it to make a type
-  specimen book.
+  Desde pequeña me ha apasionado el mundo de la moda y gracias a mis padres he tenido un par de sesiones, castings y un desfile en pasarela. 
+  En cuanto cumplí los 18, retomé esa pasión y comencé a hacer colaboraciones con fotógrafos y maquilladores para crear un portfolio. 
+  Aquí dejo todos mis trabajos. 
 image: >-
-  https://images.unsplash.com/photo-1656427868828-79a829b92b2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80
+  https://images.unsplash.com/photo-1596382940920-9f73b2d15901?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=374&q=80
 ---
 
 # Heading One

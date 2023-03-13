@@ -1,14 +1,11 @@
 ---
 date: "2022-07-08T11:50:54.000Z"
-title: Three Blog
+title: Acting
 tagline: This is a Tagline If you want to add.
 preview: >-
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-  when an unknown printer took a galley of type and scrambled it to make a type
-  specimen book.
+  Hace unos 4 años decidí apuntarme a un casting de interpretación. Tuve la suerte de ser elegida y a partir de ahí, todo pasó muy rápido hasta acabar en una película con un Goya. 
 image: >-
-  https://images.unsplash.com/photo-1640017955477-75b58521007d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80
+  https://images.unsplash.com/photo-1560109947-543149eceb16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80
 ---
 
 # Heading One
